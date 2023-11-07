@@ -24,6 +24,8 @@ Below is a list of audit reports conducted by Tenset Security. These reports rep
 
 6. [Spot token](https://github.com/tenset-security/audits/blob/main/spot-audit-report.pdf)
 
+7. [Tinyman AMM V2](https://github.com/tenset-security/audits/blob/main/Tinyman-AMM-V2.md)
+
 ## Contact Us
 
 If you are interested in our services or have any questions, please feel free to contact us:
