@@ -27,6 +27,8 @@ Below is a list of audit reports conducted by Tenset Security. These reports rep
 7. [Tinyman AMM V2](https://github.com/tenset-security/audits/blob/main/Tinyman-AMM-V2.md)
 
 8. [Liquity token](https://github.com/tenset-security/audits/blob/main/liquity-token.pdf)
+ 
+9. [Catamoto token](https://github.com/tenset-security/audits/blob/main/catamoto-token.pdf)
 
 ## Contact Us
 
