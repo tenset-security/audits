@@ -29,6 +29,8 @@ Below is a list of audit reports conducted by Tenset Security. These reports rep
 8. [Liquity token](https://github.com/tenset-security/audits/blob/main/liquity-token.pdf)
  
 9. [Catamoto token](https://github.com/tenset-security/audits/blob/main/catamoto-token.pdf)
+ 
+10. [Lucky Lemu](https://github.com/tenset-security/audits/blob/main/lucky-lemu.pdf)
 
 ## Contact Us
 
