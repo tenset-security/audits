@@ -32,6 +32,8 @@ Below is a list of audit reports conducted by Tenset Security. These reports rep
  
 10. [Lucky Lemu](https://github.com/tenset-security/audits/blob/main/lucky-lemu.pdf)
 
+11. [Burn Cat token](https://github.com/tenset-security/audits/blob/main/burn-cat-token.pdf)
+
 ## Contact Us
 
 If you are interested in our services or have any questions, please feel free to contact us:
